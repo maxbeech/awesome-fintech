@@ -130,6 +130,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
+- [Ledgerage](https://www.ledgerage.com) – Lease accounting software for ASC 842 and IFRS 16.
 
 ## Developer Tools & Infrastructure
 
